@@ -3,11 +3,11 @@
 
 ___
 
-# Chatwoot 
+# Chatwoot
 
 Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
 <p>
-  <a href="https://heroku.com/deploy?template=https://github.com/chatwoot/chatwoot/tree/master" alt="Deploy to Heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/bogutski/chatwoot/tree/master" alt="Deploy to Heroku">
      <img width="150" alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
   <a href="https://marketplace.digitalocean.com/apps/chatwoot?refcode=f2238426a2a8" alt="Deploy to DigitalOcean">
@@ -98,7 +98,7 @@ Chatwoot now supports 1-Click deployment to DigitalOcean as a kubernetes app.
 
 ### Other deployment options
 
-For other supported options, checkout our [deployment page](https://chatwoot.com/deploy). 
+For other supported options, checkout our [deployment page](https://chatwoot.com/deploy).
 
 ## Security
 
